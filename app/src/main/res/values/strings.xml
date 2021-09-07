@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Reading List</string>
+    <string name="show_toast_book_detail">You have clicked on book %s</string>
+    <string name="show_toast_no_items">No items to display. Please check your internet connection.</string>
+</resources>
